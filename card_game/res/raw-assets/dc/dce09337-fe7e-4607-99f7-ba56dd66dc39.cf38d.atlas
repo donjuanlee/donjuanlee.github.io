@@ -1,0 +1,104 @@
+
+action.png
+size: 936,423
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yueboom_0000
+  rotate: false
+  xy: 769, 111
+  size: 152, 127
+  orig: 240, 255
+  offset: 36, 52
+  index: -1
+yueboom_0002
+  rotate: false
+  xy: 2, 223
+  size: 238, 198
+  orig: 240, 255
+  offset: 0, 20
+  index: -1
+yueboom_0004
+  rotate: false
+  xy: 614, 112
+  size: 153, 154
+  orig: 240, 255
+  offset: 46, 34
+  index: -1
+yueboom_0006
+  rotate: false
+  xy: 242, 258
+  size: 175, 163
+  orig: 240, 255
+  offset: 40, 35
+  index: -1
+yueboom_0008
+  rotate: false
+  xy: 2, 40
+  size: 177, 181
+  orig: 240, 255
+  offset: 40, 35
+  index: -1
+yueboom_0010
+  rotate: false
+  xy: 786, 240
+  size: 148, 181
+  orig: 240, 255
+  offset: 70, 36
+  index: -1
+yueboom_0012
+  rotate: true
+  xy: 419, 267
+  size: 154, 181
+  orig: 240, 255
+  offset: 70, 36
+  index: -1
+yueboom_0014
+  rotate: true
+  xy: 602, 268
+  size: 153, 182
+  orig: 240, 255
+  offset: 71, 36
+  index: -1
+yueboom_0016
+  rotate: false
+  xy: 181, 40
+  size: 145, 181
+  orig: 240, 255
+  offset: 75, 37
+  index: -1
+yueboom_0018
+  rotate: false
+  xy: 328, 77
+  size: 143, 179
+  orig: 240, 255
+  offset: 77, 39
+  index: -1
+yueboom_0020
+  rotate: false
+  xy: 473, 91
+  size: 139, 174
+  orig: 240, 255
+  offset: 79, 45
+  index: -1
+yueboom_0022
+  rotate: true
+  xy: 754, 6
+  size: 103, 171
+  orig: 240, 255
+  offset: 114, 48
+  index: -1
+yueboom_0024
+  rotate: true
+  xy: 614, 8
+  size: 102, 138
+  orig: 240, 255
+  offset: 115, 81
+  index: -1
+yueboom_0026
+  rotate: false
+  xy: 473, 2
+  size: 97, 87
+  orig: 240, 255
+  offset: 114, 132
+  index: -1

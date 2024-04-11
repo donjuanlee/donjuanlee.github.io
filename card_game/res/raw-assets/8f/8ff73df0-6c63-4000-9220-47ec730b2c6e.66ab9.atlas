@@ -1,0 +1,146 @@
+
+h01.png
+size: 1664,639
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Stage4 WaterSmallBoat1_13
+  rotate: true
+  xy: 1007, 2
+  size: 131, 94
+  orig: 144, 100
+  offset: 0, 3
+  index: -1
+Stage4 WaterSmallBoat1_14
+  rotate: true
+  xy: 1103, 2
+  size: 131, 94
+  orig: 144, 100
+  offset: 0, 3
+  index: -1
+Stage4 WaterSmallBoat1_15
+  rotate: true
+  xy: 1199, 3
+  size: 130, 89
+  orig: 144, 100
+  offset: 1, 5
+  index: -1
+Stage4 WaterSmallBoat1_16
+  rotate: true
+  xy: 1533, 507
+  size: 130, 89
+  orig: 144, 100
+  offset: 1, 5
+  index: -1
+Stage4 WaterSmallBoat1_17
+  rotate: true
+  xy: 1533, 375
+  size: 130, 89
+  orig: 144, 100
+  offset: 1, 5
+  index: -1
+Stage4 WaterSmallBoat1_18
+  rotate: true
+  xy: 1290, 6
+  size: 127, 90
+  orig: 144, 100
+  offset: 3, 4
+  index: -1
+Stage4 WaterSmallBoat1_19
+  rotate: true
+  xy: 1382, 10
+  size: 127, 90
+  orig: 144, 100
+  offset: 3, 4
+  index: -1
+Stage4 WaterSmallBoat1_20
+  rotate: false
+  xy: 1205, 135
+  size: 126, 89
+  orig: 144, 100
+  offset: 5, 5
+  index: -1
+mm
+  rotate: true
+  xy: 1624, 419
+  size: 71, 32
+  orig: 76, 34
+  offset: 3, 1
+  index: -1
+nai1
+  rotate: false
+  xy: 1418, 148
+  size: 74, 76
+  orig: 76, 83
+  offset: 1, 1
+  index: -1
+nai2
+  rotate: false
+  xy: 1333, 139
+  size: 83, 85
+  orig: 85, 87
+  offset: 1, 1
+  index: -1
+qianfa
+  rotate: false
+  xy: 905, 3
+  size: 100, 130
+  orig: 111, 139
+  offset: 10, 8
+  index: -1
+qianfa2
+  rotate: false
+  xy: 1624, 492
+  size: 36, 68
+  orig: 38, 70
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 1506, 80
+  size: 141, 293
+  orig: 143, 295
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 905, 135
+  size: 502, 298
+  orig: 538, 300
+  offset: 35, 1
+  index: -1
+xiashen
+  rotate: false
+  xy: 2, 2
+  size: 901, 635
+  orig: 904, 643
+  offset: 1, 7
+  index: -1
+yj
+  rotate: true
+  xy: 1624, 562
+  size: 75, 38
+  orig: 78, 44
+  offset: 1, 4
+  index: -1
+youshou
+  rotate: false
+  xy: 1205, 428
+  size: 326, 209
+  orig: 328, 218
+  offset: 1, 8
+  index: -1
+zui
+  rotate: false
+  xy: 1624, 399
+  size: 27, 18
+  orig: 29, 20
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1205, 226
+  size: 299, 200
+  orig: 301, 223
+  offset: 1, 12
+  index: -1

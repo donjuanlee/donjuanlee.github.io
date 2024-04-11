@@ -1,0 +1,223 @@
+
+action.png
+size: 921,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yingchong_0000
+  rotate: false
+  xy: 872, 37
+  size: 47, 47
+  orig: 450, 450
+  offset: 210, 164
+  index: -1
+yingchong_0001
+  rotate: false
+  xy: 68, 2
+  size: 59, 49
+  orig: 450, 450
+  offset: 204, 163
+  index: -1
+yingchong_0002
+  rotate: false
+  xy: 348, 2
+  size: 71, 56
+  orig: 450, 450
+  offset: 198, 162
+  index: -1
+yingchong_0003
+  rotate: true
+  xy: 175, 55
+  size: 80, 59
+  orig: 450, 450
+  offset: 193, 164
+  index: -1
+yingchong_0004
+  rotate: true
+  xy: 2, 49
+  size: 86, 62
+  orig: 450, 450
+  offset: 188, 167
+  index: -1
+yingchong_0005
+  rotate: true
+  xy: 116, 54
+  size: 81, 57
+  orig: 450, 450
+  offset: 185, 173
+  index: -1
+yingchong_0006
+  rotate: false
+  xy: 129, 2
+  size: 74, 50
+  orig: 450, 450
+  offset: 186, 179
+  index: -1
+yingchong_0007
+  rotate: true
+  xy: 596, 69
+  size: 66, 46
+  orig: 450, 450
+  offset: 188, 183
+  index: -1
+yingchong_0008
+  rotate: true
+  xy: 690, 79
+  size: 56, 48
+  orig: 450, 450
+  offset: 192, 183
+  index: -1
+yingchong_0009
+  rotate: true
+  xy: 822, 32
+  size: 49, 48
+  orig: 450, 450
+  offset: 194, 183
+  index: -1
+yingchong_0010
+  rotate: true
+  xy: 723, 23
+  size: 54, 48
+  orig: 450, 450
+  offset: 190, 184
+  index: -1
+yingchong_0011
+  rotate: true
+  xy: 610, 5
+  size: 62, 54
+  orig: 450, 450
+  offset: 186, 182
+  index: -1
+yingchong_0012
+  rotate: false
+  xy: 544, 2
+  size: 64, 63
+  orig: 450, 450
+  offset: 187, 179
+  index: -1
+yingchong_0013
+  rotate: false
+  xy: 462, 64
+  size: 62, 71
+  orig: 450, 450
+  offset: 193, 176
+  index: -1
+yingchong_0014
+  rotate: false
+  xy: 343, 60
+  size: 57, 75
+  orig: 450, 450
+  offset: 200, 175
+  index: -1
+yingchong_0015
+  rotate: true
+  xy: 205, 2
+  size: 51, 70
+  orig: 450, 450
+  offset: 209, 178
+  index: -1
+yingchong_0016
+  rotate: false
+  xy: 644, 73
+  size: 44, 62
+  orig: 450, 450
+  offset: 217, 182
+  index: -1
+yingchong_0017
+  rotate: false
+  xy: 773, 26
+  size: 47, 53
+  orig: 450, 450
+  offset: 218, 185
+  index: -1
+yingchong_0018
+  rotate: true
+  xy: 790, 83
+  size: 52, 49
+  orig: 450, 450
+  offset: 214, 180
+  index: -1
+yingchong_0019
+  rotate: true
+  xy: 666, 10
+  size: 61, 55
+  orig: 450, 450
+  offset: 208, 171
+  index: -1
+yingchong_0020
+  rotate: false
+  xy: 421, 2
+  size: 71, 57
+  orig: 450, 450
+  offset: 199, 165
+  index: -1
+yingchong_0021
+  rotate: true
+  xy: 294, 56
+  size: 79, 47
+  orig: 450, 450
+  offset: 192, 170
+  index: -1
+yingchong_0022
+  rotate: true
+  xy: 66, 53
+  size: 82, 48
+  orig: 450, 450
+  offset: 192, 171
+  index: -1
+yingchong_0023
+  rotate: true
+  xy: 236, 55
+  size: 80, 56
+  orig: 450, 450
+  offset: 193, 166
+  index: -1
+yingchong_0024
+  rotate: true
+  xy: 402, 61
+  size: 74, 58
+  orig: 450, 450
+  offset: 195, 166
+  index: -1
+yingchong_0025
+  rotate: false
+  xy: 277, 2
+  size: 69, 51
+  orig: 450, 450
+  offset: 199, 171
+  index: -1
+yingchong_0026
+  rotate: false
+  xy: 2, 2
+  size: 64, 45
+  orig: 450, 450
+  offset: 202, 175
+  index: -1
+yingchong_0027
+  rotate: true
+  xy: 494, 2
+  size: 60, 48
+  orig: 450, 450
+  offset: 203, 172
+  index: -1
+yingchong_0028
+  rotate: true
+  xy: 740, 81
+  size: 54, 48
+  orig: 450, 450
+  offset: 206, 169
+  index: -1
+yingchong_0029
+  rotate: true
+  xy: 841, 86
+  size: 49, 47
+  orig: 450, 450
+  offset: 208, 166
+  index: -1
+yun_0000
+  rotate: false
+  xy: 526, 67
+  size: 68, 68
+  orig: 130, 130
+  offset: 31, 31
+  index: -1

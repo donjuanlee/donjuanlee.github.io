@@ -1,0 +1,145 @@
+
+action.png
+size: 995,977
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di__00000
+  rotate: true
+  xy: 790, 451
+  size: 258, 152
+  orig: 540, 540
+  offset: 118, 66
+  index: -1
+di__00001
+  rotate: false
+  xy: 136, 178
+  size: 347, 222
+  orig: 540, 540
+  offset: 45, 62
+  index: -1
+di__00002
+  rotate: false
+  xy: 2, 739
+  size: 426, 236
+  orig: 540, 540
+  offset: 32, 34
+  index: -1
+di__00003
+  rotate: true
+  xy: 747, 183
+  size: 266, 178
+  orig: 540, 540
+  offset: 114, 62
+  index: -1
+di__00004
+  rotate: false
+  xy: 412, 2
+  size: 267, 174
+  orig: 540, 540
+  offset: 114, 62
+  index: -1
+fenghuang_00002
+  rotate: true
+  xy: 436, 476
+  size: 233, 352
+  orig: 540, 540
+  offset: 81, 58
+  index: -1
+fenghuang_00003
+  rotate: false
+  xy: 485, 184
+  size: 260, 290
+  orig: 540, 540
+  offset: 117, 119
+  index: -1
+fenghuang_00004
+  rotate: true
+  xy: 136, 402
+  size: 335, 298
+  orig: 540, 540
+  offset: 91, 112
+  index: -1
+fenghuang_00005
+  rotate: true
+  xy: 681, 10
+  size: 171, 294
+  orig: 540, 540
+  offset: 207, 118
+  index: -1
+lizi_00004
+  rotate: true
+  xy: 2, 13
+  size: 163, 408
+  orig: 540, 540
+  offset: 139, 132
+  index: -1
+luoxuan_00004
+  rotate: true
+  xy: 436, 711
+  size: 133, 488
+  orig: 540, 540
+  offset: 160, 20
+  index: -1
+luoxuan_00005
+  rotate: false
+  xy: 2, 229
+  size: 132, 508
+  orig: 540, 540
+  offset: 160, 32
+  index: -1
+luoxuan_00006
+  rotate: true
+  xy: 430, 846
+  size: 129, 497
+  orig: 540, 540
+  offset: 161, 43
+  index: -1
+xian_00004
+  rotate: false
+  xy: 929, 813
+  size: 64, 162
+  orig: 540, 540
+  offset: 204, 138
+  index: -1
+
+action2.png
+size: 415,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di__00005
+  rotate: true
+  xy: 252, 312
+  size: 266, 161
+  orig: 540, 540
+  offset: 114, 62
+  index: -1
+di__00006
+  rotate: false
+  xy: 2, 2
+  size: 266, 161
+  orig: 540, 540
+  offset: 114, 62
+  index: -1
+luoxuan_00002
+  rotate: false
+  xy: 270, 23
+  size: 133, 287
+  orig: 540, 540
+  offset: 160, 18
+  index: -1
+luoxuan_00003
+  rotate: false
+  xy: 2, 165
+  size: 134, 413
+  orig: 540, 540
+  offset: 159, 19
+  index: -1
+luoxuan_00008
+  rotate: false
+  xy: 138, 180
+  size: 112, 398
+  orig: 540, 540
+  offset: 168, 142
+  index: -1

@@ -1,0 +1,55 @@
+
+action.png
+size: 944,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhidaoguang_0000
+  rotate: true
+  xy: 2, 27
+  size: 124, 99
+  orig: 494, 416
+  offset: 87, 222
+  index: -1
+zhidaoguang_0002
+  rotate: true
+  xy: 2, 153
+  size: 375, 267
+  orig: 494, 416
+  offset: 77, 61
+  index: -1
+zhidaoguang_0003
+  rotate: true
+  xy: 271, 193
+  size: 335, 234
+  orig: 494, 416
+  offset: 94, 81
+  index: -1
+zhidaoguang_0005
+  rotate: false
+  xy: 556, 4
+  size: 296, 202
+  orig: 494, 416
+  offset: 106, 99
+  index: -1
+zhidaoguang_0007
+  rotate: true
+  xy: 507, 208
+  size: 320, 220
+  orig: 494, 416
+  offset: 96, 94
+  index: -1
+zhidaoguang_0009
+  rotate: true
+  xy: 729, 238
+  size: 290, 213
+  orig: 494, 416
+  offset: 109, 84
+  index: -1
+zhidaoguang_0010
+  rotate: false
+  xy: 271, 2
+  size: 283, 189
+  orig: 494, 416
+  offset: 114, 105
+  index: -1

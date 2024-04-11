@@ -1,0 +1,41 @@
+
+action.png
+size: 111,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+book
+  rotate: true
+  xy: 2, 25
+  size: 82, 53
+  orig: 82, 53
+  offset: 0, 0
+  index: -1
+page_1
+  rotate: true
+  xy: 57, 74
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+page_2
+  rotate: true
+  xy: 55, 4
+  size: 19, 54
+  orig: 19, 54
+  offset: 0, 0
+  index: -1
+page_3
+  rotate: true
+  xy: 2, 2
+  size: 21, 51
+  orig: 21, 51
+  offset: 0, 0
+  index: -1
+page_4
+  rotate: false
+  xy: 57, 25
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1

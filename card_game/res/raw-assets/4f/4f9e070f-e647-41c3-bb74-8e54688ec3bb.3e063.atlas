@@ -1,0 +1,41 @@
+
+H30018.png
+size: 454,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_2
+  rotate: false
+  xy: 2, 2
+  size: 198, 266
+  orig: 290, 309
+  offset: 39, 0
+  index: -1
+Body_Back_2
+  rotate: true
+  xy: 300, 210
+  size: 354, 152
+  orig: 355, 154
+  offset: 0, 2
+  index: -1
+Head_2
+  rotate: true
+  xy: 2, 270
+  size: 294, 296
+  orig: 316, 304
+  offset: 3, 6
+  index: -1
+Tail_2
+  rotate: false
+  xy: 300, 107
+  size: 141, 101
+  orig: 143, 102
+  offset: 1, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 202, 11
+  size: 257, 96
+  orig: 280, 128
+  offset: 9, 20
+  index: -1

@@ -1,0 +1,48 @@
+
+v00.png
+size: 1576,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02
+  rotate: false
+  xy: 2, 34
+  size: 720, 450
+  orig: 720, 458
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 882, 1053
+  size: 607, 993
+  orig: 660, 1035
+  offset: 22, 20
+  index: -1
+04
+  rotate: false
+  xy: 882, 85
+  size: 571, 966
+  orig: 571, 966
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 2, 486
+  size: 878, 1560
+  orig: 878, 1560
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 2, 2
+  size: 89, 30
+  orig: 89, 30
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 1455, 513
+  size: 538, 119
+  orig: 538, 119
+  offset: 0, 0
+  index: -1

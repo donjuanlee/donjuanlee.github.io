@@ -1,0 +1,139 @@
+
+action.png
+size: 963,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_0005
+  rotate: true
+  xy: 575, 324
+  size: 184, 122
+  orig: 468, 468
+  offset: 144, 203
+  index: -1
+01_0006
+  rotate: true
+  xy: 507, 109
+  size: 185, 136
+  orig: 468, 468
+  offset: 144, 203
+  index: -1
+01_0007
+  rotate: true
+  xy: 212, 292
+  size: 216, 148
+  orig: 468, 468
+  offset: 132, 200
+  index: -1
+01_0008
+  rotate: true
+  xy: 332, 77
+  size: 213, 173
+  orig: 468, 468
+  offset: 130, 201
+  index: -1
+01_0009
+  rotate: true
+  xy: 362, 296
+  size: 212, 211
+  orig: 468, 468
+  offset: 126, 203
+  index: -1
+01_0010
+  rotate: true
+  xy: 76, 28
+  size: 218, 254
+  orig: 468, 468
+  offset: 123, 201
+  index: -1
+01_0011
+  rotate: false
+  xy: 2, 248
+  size: 208, 260
+  orig: 468, 468
+  offset: 132, 203
+  index: -1
+01_0012
+  rotate: false
+  xy: 2, 2
+  size: 72, 244
+  orig: 468, 468
+  offset: 214, 223
+  index: -1
+01_0013
+  rotate: true
+  xy: 391, 30
+  size: 45, 79
+  orig: 468, 468
+  offset: 213, 230
+  index: -1
+02_0009
+  rotate: true
+  xy: 332, 13
+  size: 62, 57
+  orig: 468, 468
+  offset: 207, 349
+  index: -1
+02_0010
+  rotate: false
+  xy: 507, 7
+  size: 108, 100
+  orig: 468, 468
+  offset: 183, 330
+  index: -1
+02_0011
+  rotate: false
+  xy: 699, 391
+  size: 143, 117
+  orig: 468, 468
+  offset: 173, 318
+  index: -1
+02_0012
+  rotate: true
+  xy: 844, 377
+  size: 131, 117
+  orig: 468, 468
+  offset: 172, 318
+  index: -1
+02_0013
+  rotate: true
+  xy: 836, 252
+  size: 123, 125
+  orig: 468, 468
+  offset: 177, 312
+  index: -1
+02_0014
+  rotate: false
+  xy: 766, 6
+  size: 127, 130
+  orig: 468, 468
+  offset: 176, 307
+  index: -1
+02_0015
+  rotate: true
+  xy: 699, 259
+  size: 130, 135
+  orig: 468, 468
+  offset: 175, 303
+  index: -1
+02_0016
+  rotate: true
+  xy: 645, 4
+  size: 132, 119
+  orig: 468, 468
+  offset: 174, 319
+  index: -1
+02_0017
+  rotate: false
+  xy: 645, 138
+  size: 134, 119
+  orig: 468, 468
+  offset: 174, 319
+  index: -1
+02_0018
+  rotate: true
+  xy: 781, 139
+  size: 111, 113
+  orig: 468, 468
+  offset: 184, 318
+  index: -1

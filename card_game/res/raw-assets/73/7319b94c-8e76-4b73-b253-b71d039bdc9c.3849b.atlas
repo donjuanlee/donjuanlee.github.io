@@ -1,0 +1,139 @@
+
+action.png
+size: 991,299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line_0001
+  rotate: false
+  xy: 421, 2
+  size: 64, 131
+  orig: 153, 195
+  offset: 52, 64
+  index: -1
+line_0004
+  rotate: true
+  xy: 838, 230
+  size: 67, 151
+  orig: 153, 195
+  offset: 51, 44
+  index: -1
+line_0007
+  rotate: false
+  xy: 767, 142
+  size: 69, 155
+  orig: 153, 195
+  offset: 49, 31
+  index: -1
+line_0010
+  rotate: false
+  xy: 647, 2
+  size: 71, 135
+  orig: 153, 195
+  offset: 48, 24
+  index: -1
+line_0013
+  rotate: false
+  xy: 720, 27
+  size: 76, 110
+  orig: 153, 195
+  offset: 43, 21
+  index: -1
+line_0016
+  rotate: true
+  xy: 838, 151
+  size: 77, 87
+  orig: 153, 195
+  offset: 43, 21
+  index: -1
+line_0019
+  rotate: false
+  xy: 892, 37
+  size: 76, 71
+  orig: 153, 195
+  offset: 43, 21
+  index: -1
+line_0022
+  rotate: true
+  xy: 927, 158
+  size: 70, 61
+  orig: 153, 195
+  offset: 45, 21
+  index: -1
+smoke_0000
+  rotate: true
+  xy: 927, 110
+  size: 46, 57
+  orig: 189, 195
+  offset: 93, 14
+  index: -1
+somke_0004
+  rotate: true
+  xy: 798, 45
+  size: 95, 92
+  orig: 189, 195
+  offset: 69, 17
+  index: -1
+somke_0007
+  rotate: true
+  xy: 2, 7
+  size: 122, 111
+  orig: 189, 195
+  offset: 54, 19
+  index: -1
+somke_0010
+  rotate: false
+  xy: 276, 3
+  size: 143, 128
+  orig: 189, 195
+  offset: 34, 24
+  index: -1
+somke_0013
+  rotate: true
+  xy: 477, 137
+  size: 160, 141
+  orig: 189, 195
+  offset: 12, 23
+  index: -1
+somke_0016
+  rotate: true
+  xy: 158, 133
+  size: 164, 153
+  orig: 189, 195
+  offset: 8, 20
+  index: -1
+somke_0019
+  rotate: false
+  xy: 313, 135
+  size: 162, 162
+  orig: 189, 195
+  offset: 11, 17
+  index: -1
+somke_0022
+  rotate: true
+  xy: 2, 131
+  size: 166, 154
+  orig: 189, 195
+  offset: 6, 22
+  index: -1
+somke_0025
+  rotate: true
+  xy: 620, 139
+  size: 158, 145
+  orig: 189, 195
+  offset: 13, 26
+  index: -1
+somke_0028
+  rotate: false
+  xy: 487, 5
+  size: 158, 130
+  orig: 189, 195
+  offset: 12, 34
+  index: -1
+somke_0031
+  rotate: false
+  xy: 115, 13
+  size: 159, 116
+  orig: 189, 195
+  offset: 10, 40
+  index: -1

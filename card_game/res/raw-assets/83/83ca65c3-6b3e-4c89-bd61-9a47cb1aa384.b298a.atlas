@@ -1,0 +1,139 @@
+
+action.png
+size: 256,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian000_0000
+  rotate: false
+  xy: 117, 294
+  size: 123, 22
+  orig: 300, 160
+  offset: 80, 70
+  index: -1
+jian000_0002
+  rotate: false
+  xy: 110, 188
+  size: 121, 21
+  orig: 300, 160
+  offset: 82, 70
+  index: -1
+jian000_0004
+  rotate: false
+  xy: 108, 164
+  size: 123, 22
+  orig: 300, 160
+  offset: 80, 70
+  index: -1
+jian000_0006
+  rotate: true
+  xy: 231, 399
+  size: 122, 23
+  orig: 300, 160
+  offset: 81, 69
+  index: -1
+jian000_0008
+  rotate: false
+  xy: 108, 118
+  size: 117, 21
+  orig: 300, 160
+  offset: 86, 71
+  index: -1
+jian000_0010
+  rotate: false
+  xy: 108, 141
+  size: 125, 21
+  orig: 300, 160
+  offset: 78, 71
+  index: -1
+jian000_0012
+  rotate: false
+  xy: 108, 94
+  size: 116, 22
+  orig: 300, 160
+  offset: 87, 71
+  index: -1
+jian000_0014
+  rotate: false
+  xy: 90, 71
+  size: 114, 21
+  orig: 300, 160
+  offset: 89, 71
+  index: -1
+shoujiaaa_0000
+  rotate: false
+  xy: 2, 106
+  size: 104, 80
+  orig: 252, 252
+  offset: 78, 83
+  index: -1
+shoujiaaa_0001
+  rotate: false
+  xy: 117, 318
+  size: 105, 97
+  orig: 252, 252
+  offset: 77, 76
+  index: -1
+shoujiaaa_0002
+  rotate: false
+  xy: 117, 417
+  size: 112, 104
+  orig: 252, 252
+  offset: 70, 73
+  index: -1
+shoujiaaa_0003
+  rotate: false
+  xy: 2, 300
+  size: 113, 108
+  orig: 252, 252
+  offset: 70, 72
+  index: -1
+shoujiaaa_0004
+  rotate: false
+  xy: 2, 410
+  size: 113, 111
+  orig: 252, 252
+  offset: 72, 71
+  index: -1
+shoujiaaa_0005
+  rotate: false
+  xy: 2, 188
+  size: 106, 110
+  orig: 252, 252
+  offset: 77, 72
+  index: -1
+shoujiaaa_0006
+  rotate: false
+  xy: 2, 9
+  size: 86, 95
+  orig: 252, 252
+  offset: 80, 74
+  index: -1
+shoujiaaa_0007
+  rotate: false
+  xy: 110, 211
+  size: 75, 81
+  orig: 252, 252
+  offset: 82, 86
+  index: -1
+shoujiaaa_0008
+  rotate: false
+  xy: 187, 223
+  size: 65, 69
+  orig: 252, 252
+  offset: 96, 92
+  index: -1
+shoujiaaa_0009
+  rotate: true
+  xy: 149, 5
+  size: 64, 57
+  orig: 252, 252
+  offset: 100, 100
+  index: -1
+shoujiaaa_0010
+  rotate: true
+  xy: 90, 2
+  size: 67, 57
+  orig: 252, 252
+  offset: 99, 100
+  index: -1

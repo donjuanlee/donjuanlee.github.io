@@ -1,0 +1,76 @@
+
+action.png
+size: 942,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheng00000
+  rotate: false
+  xy: 132, 20
+  size: 88, 134
+  orig: 333, 333
+  offset: 126, 83
+  index: -1
+sheng00002
+  rotate: true
+  xy: 432, 2
+  size: 157, 179
+  orig: 333, 333
+  offset: 92, 57
+  index: -1
+sheng00004
+  rotate: true
+  xy: 613, 163
+  size: 163, 252
+  orig: 333, 333
+  offset: 85, 56
+  index: -1
+sheng00006
+  rotate: true
+  xy: 2, 156
+  size: 170, 244
+  orig: 333, 333
+  offset: 84, 57
+  index: -1
+sheng00008
+  rotate: true
+  xy: 248, 158
+  size: 168, 182
+  orig: 333, 333
+  offset: 85, 59
+  index: -1
+sheng00010
+  rotate: true
+  xy: 432, 161
+  size: 165, 179
+  orig: 333, 333
+  offset: 87, 63
+  index: -1
+sheng00012
+  rotate: false
+  xy: 613, 2
+  size: 163, 159
+  orig: 333, 333
+  offset: 89, 84
+  index: -1
+sheng00014
+  rotate: false
+  xy: 778, 9
+  size: 162, 152
+  orig: 333, 333
+  offset: 89, 92
+  index: -1
+sheng00016
+  rotate: true
+  xy: 248, 15
+  size: 141, 146
+  orig: 333, 333
+  offset: 109, 100
+  index: -1
+sheng00018
+  rotate: false
+  xy: 2, 36
+  size: 128, 118
+  orig: 333, 333
+  offset: 121, 105
+  index: -1

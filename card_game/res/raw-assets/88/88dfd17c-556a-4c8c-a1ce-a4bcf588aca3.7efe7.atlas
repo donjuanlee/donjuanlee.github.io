@@ -1,0 +1,139 @@
+
+action.png
+size: 375,50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangzhu0000
+  rotate: true
+  xy: 108, 27
+  size: 21, 62
+  orig: 64, 64
+  offset: 21, 0
+  index: -1
+lanlizi_00000
+  rotate: true
+  xy: 256, 23
+  size: 25, 33
+  orig: 138, 132
+  offset: 57, 47
+  index: -1
+lanlizi_00003
+  rotate: true
+  xy: 75, 2
+  size: 23, 36
+  orig: 138, 132
+  offset: 57, 46
+  index: -1
+lanlizi_00006
+  rotate: true
+  xy: 113, 2
+  size: 23, 35
+  orig: 138, 132
+  offset: 57, 49
+  index: -1
+lanlizi_00009
+  rotate: true
+  xy: 69, 28
+  size: 20, 37
+  orig: 138, 132
+  offset: 60, 49
+  index: -1
+lanlizi_00012
+  rotate: true
+  xy: 150, 5
+  size: 20, 37
+  orig: 138, 132
+  offset: 61, 50
+  index: -1
+lanlizi_00015
+  rotate: true
+  xy: 2, 2
+  size: 24, 37
+  orig: 138, 132
+  offset: 61, 51
+  index: -1
+lanlizi_00018
+  rotate: true
+  xy: 41, 2
+  size: 24, 32
+  orig: 138, 132
+  offset: 61, 47
+  index: -1
+lanlizi_00021
+  rotate: true
+  xy: 189, 4
+  size: 21, 29
+  orig: 138, 132
+  offset: 63, 48
+  index: -1
+lanlizi_00024
+  rotate: false
+  xy: 355, 23
+  size: 18, 25
+  orig: 138, 132
+  offset: 65, 55
+  index: -1
+lanlizi_00027
+  rotate: true
+  xy: 220, 15
+  size: 15, 34
+  orig: 138, 132
+  offset: 66, 50
+  index: -1
+lanlizi_00030
+  rotate: true
+  xy: 317, 8
+  size: 12, 36
+  orig: 138, 132
+  offset: 67, 51
+  index: -1
+lanlizi_00033
+  rotate: true
+  xy: 256, 5
+  size: 16, 32
+  orig: 138, 132
+  offset: 63, 58
+  index: -1
+lanlizi_00036
+  rotate: true
+  xy: 215, 32
+  size: 16, 39
+  orig: 138, 132
+  offset: 62, 52
+  index: -1
+lanlizi_00039
+  rotate: true
+  xy: 172, 27
+  size: 21, 41
+  orig: 138, 132
+  offset: 62, 53
+  index: -1
+lanlizi_00042
+  rotate: true
+  xy: 291, 22
+  size: 26, 30
+  orig: 138, 132
+  offset: 57, 53
+  index: -1
+lanlizi_00045
+  rotate: false
+  xy: 290, 2
+  size: 25, 18
+  orig: 138, 132
+  offset: 57, 56
+  index: -1
+lanlizi_00048
+  rotate: true
+  xy: 323, 22
+  size: 26, 30
+  orig: 138, 132
+  offset: 56, 47
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 28
+  size: 20, 65
+  orig: 20, 65
+  offset: 0, 0
+  index: -1

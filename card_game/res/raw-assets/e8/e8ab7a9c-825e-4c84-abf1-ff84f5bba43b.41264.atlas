@@ -1,0 +1,104 @@
+
+action.png
+size: 946,230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanci_0000
+  rotate: false
+  xy: 778, 4
+  size: 150, 21
+  orig: 312, 109
+  offset: 21, 45
+  index: -1
+chuanci_0001
+  rotate: false
+  xy: 2, 12
+  size: 215, 29
+  orig: 312, 109
+  offset: 19, 40
+  index: -1
+chuanci_0002
+  rotate: false
+  xy: 279, 151
+  size: 277, 77
+  orig: 312, 109
+  offset: 18, 18
+  index: -1
+chuanci_0003
+  rotate: false
+  xy: 2, 122
+  size: 275, 106
+  orig: 312, 109
+  offset: 19, 3
+  index: -1
+chuanci_0004
+  rotate: false
+  xy: 2, 43
+  size: 275, 77
+  orig: 312, 109
+  offset: 19, 18
+  index: -1
+chuanci_0005
+  rotate: false
+  xy: 279, 73
+  size: 274, 76
+  orig: 312, 109
+  offset: 20, 18
+  index: -1
+chuanci_0006
+  rotate: false
+  xy: 279, 21
+  size: 272, 50
+  orig: 312, 109
+  offset: 21, 32
+  index: -1
+chuanci_0007
+  rotate: false
+  xy: 558, 175
+  size: 271, 53
+  orig: 312, 109
+  offset: 21, 30
+  index: -1
+chuanci_0008
+  rotate: false
+  xy: 558, 120
+  size: 263, 53
+  orig: 312, 109
+  offset: 28, 31
+  index: -1
+chuanci_0009
+  rotate: true
+  xy: 890, 81
+  size: 147, 54
+  orig: 312, 109
+  offset: 85, 30
+  index: -1
+chuanci_0010
+  rotate: true
+  xy: 831, 74
+  size: 154, 57
+  orig: 312, 109
+  offset: 82, 28
+  index: -1
+chuanci_0011
+  rotate: false
+  xy: 778, 27
+  size: 157, 45
+  orig: 312, 109
+  offset: 80, 34
+  index: -1
+chuanci_0012
+  rotate: false
+  xy: 219, 37
+  size: 35, 4
+  orig: 312, 109
+  offset: 160, 51
+  index: -1
+jianshengb_0000
+  rotate: false
+  xy: 555, 2
+  size: 221, 116
+  orig: 260, 182
+  offset: 16, 27
+  index: -1

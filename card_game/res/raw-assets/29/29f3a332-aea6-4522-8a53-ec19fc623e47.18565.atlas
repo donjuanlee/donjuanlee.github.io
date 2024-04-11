@@ -1,0 +1,62 @@
+
+stand2.png
+size: 864,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stand0000
+  rotate: false
+  xy: 561, 7
+  size: 103, 151
+  orig: 515, 515
+  offset: 213, 236
+  index: -1
+stand0004
+  rotate: false
+  xy: 766, 6
+  size: 96, 152
+  orig: 515, 515
+  offset: 214, 236
+  index: -1
+stand0008
+  rotate: false
+  xy: 666, 4
+  size: 98, 154
+  orig: 515, 515
+  offset: 213, 235
+  index: -1
+stand0012
+  rotate: false
+  xy: 345, 2
+  size: 106, 156
+  orig: 515, 515
+  offset: 212, 234
+  index: -1
+stand0016
+  rotate: false
+  xy: 232, 2
+  size: 111, 156
+  orig: 515, 515
+  offset: 212, 234
+  index: -1
+stand0020
+  rotate: false
+  xy: 2, 3
+  size: 113, 155
+  orig: 515, 515
+  offset: 212, 234
+  index: -1
+stand0024
+  rotate: false
+  xy: 117, 4
+  size: 113, 154
+  orig: 515, 515
+  offset: 211, 235
+  index: -1
+stand0028
+  rotate: false
+  xy: 453, 5
+  size: 106, 153
+  orig: 515, 515
+  offset: 213, 235
+  index: -1

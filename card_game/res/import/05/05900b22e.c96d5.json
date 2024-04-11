@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"partnersummon_btn","texture":"1d3df05c0","rect":[3,84,239,75],"offset":[0,0.5],"originalSize":[241,76],"capInsets":[0,0,0,0]}},{"__type__":"cc.SpriteFrame","content":{"name":"partnersummon_btn_2","texture":"1d3df05c0","rect":[3,165,239,75],"offset":[0,0.5],"originalSize":[241,76],"capInsets":[0,0,0,0]}}]

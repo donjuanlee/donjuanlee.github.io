@@ -1,0 +1,160 @@
+
+action.png
+size: 910,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyuna_0000
+  rotate: false
+  xy: 2, 63
+  size: 199, 199
+  orig: 256, 256
+  offset: 28, 29
+  index: -1
+guangzhu_0000
+  rotate: false
+  xy: 2, 264
+  size: 162, 272
+  orig: 720, 720
+  offset: 278, 83
+  index: -1
+lianyi_0000
+  rotate: false
+  xy: 203, 12
+  size: 220, 88
+  orig: 720, 720
+  offset: 246, 108
+  index: -1
+lianyi_0002
+  rotate: false
+  xy: 412, 448
+  size: 220, 88
+  orig: 720, 720
+  offset: 246, 108
+  index: -1
+lianyi_0004
+  rotate: false
+  xy: 412, 358
+  size: 220, 88
+  orig: 720, 720
+  offset: 246, 108
+  index: -1
+lianyi_0006
+  rotate: false
+  xy: 449, 268
+  size: 220, 88
+  orig: 720, 720
+  offset: 246, 108
+  index: -1
+lianyi_0008
+  rotate: false
+  xy: 449, 178
+  size: 220, 88
+  orig: 720, 720
+  offset: 246, 108
+  index: -1
+lianyi_0010
+  rotate: false
+  xy: 634, 448
+  size: 220, 88
+  orig: 720, 720
+  offset: 246, 108
+  index: -1
+lianyi_0012
+  rotate: false
+  xy: 634, 358
+  size: 220, 88
+  orig: 720, 720
+  offset: 246, 108
+  index: -1
+lianyi_0014
+  rotate: false
+  xy: 671, 270
+  size: 216, 86
+  orig: 720, 720
+  offset: 248, 109
+  index: -1
+shuiliu_0000
+  rotate: false
+  xy: 671, 180
+  size: 133, 88
+  orig: 720, 720
+  offset: 269, 123
+  index: -1
+shuiliu_0001
+  rotate: true
+  xy: 797, 18
+  size: 139, 111
+  orig: 720, 720
+  offset: 261, 124
+  index: -1
+shuiliu_0002
+  rotate: false
+  xy: 425, 12
+  size: 140, 150
+  orig: 720, 720
+  offset: 261, 124
+  index: -1
+shuiliu_0003
+  rotate: false
+  xy: 325, 164
+  size: 122, 181
+  orig: 720, 720
+  offset: 262, 125
+  index: -1
+shuiliu_0004
+  rotate: false
+  xy: 166, 316
+  size: 124, 220
+  orig: 720, 720
+  offset: 263, 127
+  index: -1
+shuiliu_0005
+  rotate: false
+  xy: 203, 102
+  size: 120, 212
+  orig: 720, 720
+  offset: 265, 134
+  index: -1
+shuiliu_0006
+  rotate: false
+  xy: 292, 347
+  size: 118, 189
+  orig: 720, 720
+  offset: 266, 156
+  index: -1
+shuiliu_0007
+  rotate: false
+  xy: 567, 10
+  size: 116, 166
+  orig: 720, 720
+  offset: 267, 178
+  index: -1
+shuiliu_0008
+  rotate: false
+  xy: 685, 30
+  size: 110, 148
+  orig: 720, 720
+  offset: 272, 195
+  index: -1
+shuiliu_0009
+  rotate: false
+  xy: 806, 159
+  size: 89, 109
+  orig: 720, 720
+  offset: 292, 232
+  index: -1
+shuiliu_0010
+  rotate: true
+  xy: 2, 2
+  size: 59, 86
+  orig: 720, 720
+  offset: 320, 254
+  index: -1
+shuiliu_0011
+  rotate: false
+  xy: 90, 3
+  size: 24, 58
+  orig: 720, 720
+  offset: 354, 280
+  index: -1

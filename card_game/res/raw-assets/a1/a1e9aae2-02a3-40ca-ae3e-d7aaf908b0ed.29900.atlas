@@ -1,0 +1,146 @@
+
+h01.png
+size: 2720,463
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daimao
+  rotate: false
+  xy: 1453, 7
+  size: 41, 46
+  orig: 45, 48
+  offset: 2, 1
+  index: -1
+fashi
+  rotate: true
+  xy: 2548, 146
+  size: 53, 137
+  orig: 61, 145
+  offset: 1, 1
+  index: -1
+fashi2
+  rotate: true
+  xy: 1655, 27
+  size: 26, 59
+  orig: 30, 61
+  offset: 2, 1
+  index: -1
+houfa
+  rotate: true
+  xy: 1067, 29
+  size: 432, 384
+  orig: 434, 387
+  offset: 1, 2
+  index: -1
+houfa2
+  rotate: true
+  xy: 1861, 2
+  size: 155, 133
+  orig: 157, 135
+  offset: 1, 1
+  index: -1
+lian
+  rotate: false
+  xy: 2216, 180
+  size: 92, 112
+  orig: 94, 114
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 1453, 55
+  size: 406, 406
+  orig: 418, 418
+  offset: 8, 3
+  index: -1
+meimao
+  rotate: false
+  xy: 1577, 26
+  size: 76, 27
+  orig: 78, 30
+  offset: 1, 1
+  index: -1
+nai1
+  rotate: true
+  xy: 2636, 63
+  size: 81, 82
+  orig: 83, 84
+  offset: 1, 1
+  index: -1
+nai2
+  rotate: true
+  xy: 2552, 54
+  size: 90, 82
+  orig: 92, 84
+  offset: 1, 1
+  index: -1
+qianfa1
+  rotate: true
+  xy: 2310, 185
+  size: 107, 236
+  orig: 109, 238
+  offset: 1, 1
+  index: -1
+qianfa2
+  rotate: false
+  xy: 2496, 39
+  size: 54, 105
+  orig: 56, 107
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 2074, 208
+  size: 140, 253
+  orig: 142, 255
+  offset: 1, 1
+  index: -1
+yan
+  rotate: false
+  xy: 1496, 19
+  size: 79, 34
+  orig: 81, 36
+  offset: 1, 1
+  index: -1
+youshou
+  rotate: true
+  xy: 2, 3
+  size: 458, 1063
+  orig: 462, 1065
+  offset: 1, 1
+  index: -1
+youtui
+  rotate: true
+  xy: 2216, 294
+  size: 167, 480
+  orig: 173, 484
+  offset: 5, 3
+  index: -1
+zui
+  rotate: true
+  xy: 1067, 9
+  size: 18, 16
+  orig: 20, 21
+  offset: 1, 1
+  index: -1
+zuobi
+  rotate: true
+  xy: 2548, 201
+  size: 91, 157
+  orig: 93, 160
+  offset: 1, 2
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1861, 159
+  size: 211, 302
+  orig: 215, 304
+  offset: 3, 1
+  index: -1
+zuotui
+  rotate: true
+  xy: 1996, 4
+  size: 153, 498
+  orig: 164, 500
+  offset: 10, 1
+  index: -1

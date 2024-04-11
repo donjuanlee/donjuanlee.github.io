@@ -1,0 +1,146 @@
+
+h01.png
+size: 1448,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lian
+  rotate: false
+  xy: 1322, 410
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 2, 13
+  size: 88, 25
+  orig: 88, 25
+  offset: 0, 0
+  index: -1
+she
+  rotate: false
+  xy: 476, 178
+  size: 15, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 911, 61
+  size: 165, 299
+  orig: 166, 299
+  offset: 0, 0
+  index: -1
+si
+  rotate: false
+  xy: 476, 195
+  size: 68, 81
+  orig: 68, 81
+  offset: 0, 0
+  index: -1
+toufa0
+  rotate: false
+  xy: 1243, 71
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+toufa0-1
+  rotate: false
+  xy: 1318, 3
+  size: 128, 131
+  orig: 129, 131
+  offset: 1, 0
+  index: -1
+toufa0-2
+  rotate: true
+  xy: 313, 2
+  size: 65, 147
+  orig: 65, 149
+  offset: 0, 1
+  index: -1
+toufa1
+  rotate: false
+  xy: 313, 69
+  size: 161, 207
+  orig: 162, 207
+  offset: 1, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 1078, 60
+  size: 300, 163
+  orig: 301, 163
+  offset: 1, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 2, 40
+  size: 236, 309
+  orig: 236, 309
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: true
+  xy: 549, 17
+  size: 343, 360
+  orig: 344, 360
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 549, 362
+  size: 162, 605
+  orig: 162, 605
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 2, 278
+  size: 246, 545
+  orig: 246, 545
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 911, 17
+  size: 90, 42
+  orig: 90, 42
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 1342, 266
+  size: 87, 142
+  orig: 87, 142
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 1243, 151
+  size: 97, 215
+  orig: 97, 215
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 1322, 386
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 1342, 136
+  size: 89, 128
+  orig: 89, 128
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 1156, 368
+  size: 156, 164
+  orig: 157, 164
+  offset: 1, 0
+  index: -1

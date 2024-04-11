@@ -1,0 +1,146 @@
+
+action.png
+size: 620,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_0000
+  rotate: false
+  xy: 493, 12
+  size: 61, 64
+  orig: 500, 500
+  offset: 214, 247
+  index: -1
+1_0001
+  rotate: true
+  xy: 206, 73
+  size: 71, 64
+  orig: 500, 500
+  offset: 225, 278
+  index: -1
+1_0002
+  rotate: false
+  xy: 69, 72
+  size: 72, 72
+  orig: 500, 500
+  offset: 242, 303
+  index: -1
+1_0003
+  rotate: false
+  xy: 143, 72
+  size: 61, 72
+  orig: 500, 500
+  offset: 264, 297
+  index: -1
+1_0004
+  rotate: false
+  xy: 511, 82
+  size: 59, 62
+  orig: 500, 500
+  offset: 279, 237
+  index: -1
+1_0005
+  rotate: true
+  xy: 337, 75
+  size: 69, 56
+  orig: 500, 500
+  offset: 287, 171
+  index: -1
+1_0006
+  rotate: false
+  xy: 453, 78
+  size: 56, 66
+  orig: 500, 500
+  offset: 310, 190
+  index: -1
+1_0007
+  rotate: true
+  xy: 556, 21
+  size: 59, 62
+  orig: 500, 500
+  offset: 324, 192
+  index: -1
+1_0008
+  rotate: true
+  xy: 321, 3
+  size: 69, 57
+  orig: 500, 500
+  offset: 333, 170
+  index: -1
+1_0009
+  rotate: true
+  xy: 321, 3
+  size: 69, 57
+  orig: 500, 500
+  offset: 333, 170
+  index: -1
+2_0000
+  rotate: true
+  xy: 2, 2
+  size: 67, 63
+  orig: 500, 500
+  offset: 177, 224
+  index: -1
+2_0001
+  rotate: true
+  xy: 257, 2
+  size: 69, 62
+  orig: 500, 500
+  offset: 161, 266
+  index: -1
+2_0002
+  rotate: true
+  xy: 2, 71
+  size: 73, 65
+  orig: 500, 500
+  offset: 144, 286
+  index: -1
+2_0003
+  rotate: false
+  xy: 67, 2
+  size: 58, 67
+  orig: 500, 500
+  offset: 139, 230
+  index: -1
+2_0004
+  rotate: true
+  xy: 199, 2
+  size: 68, 56
+  orig: 500, 500
+  offset: 123, 146
+  index: -1
+2_0005
+  rotate: true
+  xy: 127, 2
+  size: 68, 70
+  orig: 500, 500
+  offset: 109, 164
+  index: -1
+2_0006
+  rotate: true
+  xy: 272, 74
+  size: 70, 63
+  orig: 500, 500
+  offset: 94, 168
+  index: -1
+2_0007
+  rotate: true
+  xy: 395, 76
+  size: 68, 56
+  orig: 500, 500
+  offset: 83, 146
+  index: -1
+2_0008
+  rotate: false
+  xy: 437, 6
+  size: 54, 68
+  orig: 500, 500
+  offset: 80, 160
+  index: -1
+2_0009
+  rotate: true
+  xy: 380, 4
+  size: 69, 55
+  orig: 500, 500
+  offset: 62, 147
+  index: -1

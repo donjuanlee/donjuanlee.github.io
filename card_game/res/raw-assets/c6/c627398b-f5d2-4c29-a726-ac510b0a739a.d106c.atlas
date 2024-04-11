@@ -1,0 +1,153 @@
+
+action.png
+size: 1006,898
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha0000
+  rotate: false
+  xy: 325, 234
+  size: 233, 186
+  orig: 325, 260
+  offset: 43, 7
+  index: -1
+baozha0001
+  rotate: false
+  xy: 325, 422
+  size: 288, 244
+  orig: 325, 260
+  offset: 18, 1
+  index: -1
+baozha0003
+  rotate: false
+  xy: 2, 190
+  size: 321, 219
+  orig: 325, 260
+  offset: 3, 19
+  index: -1
+baozha0005
+  rotate: false
+  xy: 325, 668
+  size: 321, 228
+  orig: 325, 260
+  offset: 3, 15
+  index: -1
+baozha0007
+  rotate: false
+  xy: 2, 411
+  size: 321, 238
+  orig: 325, 260
+  offset: 3, 10
+  index: -1
+baozha0009
+  rotate: false
+  xy: 2, 651
+  size: 321, 245
+  orig: 325, 260
+  offset: 4, 6
+  index: -1
+baozha0011
+  rotate: false
+  xy: 2, 14
+  size: 321, 174
+  orig: 325, 260
+  offset: 4, 4
+  index: -1
+baozha0012
+  rotate: false
+  xy: 648, 719
+  size: 321, 177
+  orig: 325, 260
+  offset: 4, 4
+  index: -1
+fazhen0000
+  rotate: false
+  xy: 325, 2
+  size: 209, 98
+  orig: 227, 130
+  offset: 11, 14
+  index: -1
+yaoshe0000
+  rotate: false
+  xy: 845, 587
+  size: 151, 130
+  orig: 227, 130
+  offset: 24, 0
+  index: -1
+yaoshe0001
+  rotate: true
+  xy: 858, 9
+  size: 182, 130
+  orig: 227, 130
+  offset: 24, 0
+  index: -1
+yaoshe0002
+  rotate: false
+  xy: 811, 455
+  size: 193, 130
+  orig: 227, 130
+  offset: 18, 0
+  index: -1
+yaoshe0003
+  rotate: true
+  xy: 560, 231
+  size: 189, 130
+  orig: 227, 130
+  offset: 22, 0
+  index: -1
+yaoshe0004
+  rotate: false
+  xy: 615, 455
+  size: 194, 130
+  orig: 227, 130
+  offset: 17, 0
+  index: -1
+yaoshe0005
+  rotate: false
+  xy: 668, 61
+  size: 188, 130
+  orig: 227, 130
+  offset: 20, 0
+  index: -1
+yaoshe0006
+  rotate: false
+  xy: 648, 587
+  size: 195, 130
+  orig: 227, 130
+  offset: 16, 0
+  index: -1
+yaoshe0007
+  rotate: false
+  xy: 325, 102
+  size: 197, 130
+  orig: 227, 130
+  offset: 16, 0
+  index: -1
+yaoshe0008
+  rotate: false
+  xy: 692, 193
+  size: 192, 129
+  orig: 227, 130
+  offset: 19, 0
+  index: -1
+yaoshe0009
+  rotate: false
+  xy: 692, 324
+  size: 193, 129
+  orig: 227, 130
+  offset: 16, 0
+  index: -1
+yaoshe0010
+  rotate: true
+  xy: 536, 38
+  size: 191, 130
+  orig: 227, 130
+  offset: 18, 0
+  index: -1
+yaoshe0011
+  rotate: true
+  xy: 887, 271
+  size: 182, 97
+  orig: 227, 130
+  offset: 25, 30
+  index: -1

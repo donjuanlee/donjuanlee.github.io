@@ -1,0 +1,278 @@
+
+action.png
+size: 1023,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 604, 12
+  size: 256, 55
+  orig: 256, 64
+  offset: 0, 5
+  index: -1
+c
+  rotate: true
+  xy: 704, 765
+  size: 255, 55
+  orig: 256, 64
+  offset: 0, 5
+  index: -1
+flower
+  rotate: true
+  xy: 772, 69
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+flower_2
+  rotate: false
+  xy: 1001, 924
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+girl
+  rotate: false
+  xy: 2, 268
+  size: 400, 752
+  orig: 400, 752
+  offset: 0, 0
+  index: -1
+girl_close_eye
+  rotate: true
+  xy: 824, 124
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+girl_hair_a
+  rotate: true
+  xy: 862, 19
+  size: 52, 115
+  orig: 52, 115
+  offset: 0, 0
+  index: -1
+girl_hair_b
+  rotate: false
+  xy: 975, 105
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+girl_hair_c
+  rotate: true
+  xy: 355, 69
+  size: 197, 415
+  orig: 197, 415
+  offset: 0, 0
+  index: -1
+girl_hair_d
+  rotate: false
+  xy: 862, 800
+  size: 137, 220
+  orig: 137, 220
+  offset: 0, 0
+  index: -1
+girl_skirt_a
+  rotate: false
+  xy: 2, 9
+  size: 351, 257
+  orig: 351, 257
+  offset: 0, 0
+  index: -1
+glass_1
+  rotate: true
+  xy: 772, 110
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+glass_2
+  rotate: true
+  xy: 975, 240
+  size: 96, 42
+  orig: 96, 42
+  offset: 0, 0
+  index: -1
+glass_3
+  rotate: true
+  xy: 849, 126
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+glass_4
+  rotate: false
+  xy: 798, 112
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+grass_c
+  rotate: false
+  xy: 355, 2
+  size: 247, 65
+  orig: 247, 65
+  offset: 0, 0
+  index: -1
+grass_d
+  rotate: true
+  xy: 772, 765
+  size: 255, 83
+  orig: 255, 83
+  offset: 0, 0
+  index: -1
+man_close_eye
+  rotate: true
+  xy: 1001, 995
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+man_hair_a
+  rotate: false
+  xy: 550, 273
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+man_hair_b
+  rotate: true
+  xy: 980, 770
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+man_hair_c
+  rotate: true
+  xy: 917, 771
+  size: 27, 61
+  orig: 27, 61
+  offset: 0, 0
+  index: -1
+man_hair_d
+  rotate: false
+  xy: 970, 79
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+man_hair_e
+  rotate: false
+  xy: 857, 769
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+man_hair_f
+  rotate: true
+  xy: 975, 170
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+man_hair_g
+  rotate: true
+  xy: 404, 272
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+man_hair_h
+  rotate: false
+  xy: 477, 277
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+man_skirt_a
+  rotate: false
+  xy: 772, 151
+  size: 201, 185
+  orig: 201, 185
+  offset: 0, 0
+  index: -1
+man_skirt_b
+  rotate: false
+  xy: 404, 770
+  size: 298, 250
+  orig: 298, 250
+  offset: 0, 0
+  index: -1
+man_skirt_c
+  rotate: true
+  xy: 404, 338
+  size: 425, 611
+  orig: 425, 611
+  offset: 0, 0
+  index: -1
+weapon_feather
+  rotate: true
+  xy: 882, 91
+  size: 58, 86
+  orig: 58, 86
+  offset: 0, 0
+  index: -1
+weapon_item_a
+  rotate: true
+  xy: 827, 73
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+weapon_item_a2
+  rotate: false
+  xy: 979, 24
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+weapon_item_b
+  rotate: false
+  xy: 1001, 969
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+weapon_item_b2
+  rotate: false
+  xy: 1001, 943
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+
+action2.png
+size: 790,739
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl_hair_e
+  rotate: true
+  xy: 2, 2
+  size: 425, 450
+  orig: 425, 450
+  offset: 0, 0
+  index: -1
+girl_skirt_b
+  rotate: false
+  xy: 454, 174
+  size: 257, 253
+  orig: 257, 253
+  offset: 0, 0
+  index: -1
+grass_b
+  rotate: false
+  xy: 454, 59
+  size: 197, 113
+  orig: 197, 113
+  offset: 0, 0
+  index: -1
+man
+  rotate: true
+  xy: 2, 429
+  size: 308, 786
+  orig: 308, 786
+  offset: 0, 0
+  index: -1

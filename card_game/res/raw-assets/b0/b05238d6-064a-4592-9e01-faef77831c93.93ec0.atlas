@@ -1,0 +1,146 @@
+
+action.png
+size: 978,991
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dimian0000
+  rotate: true
+  xy: 376, 230
+  size: 281, 129
+  orig: 318, 212
+  offset: 20, 35
+  index: -1
+dimian0001
+  rotate: true
+  xy: 193, 512
+  size: 282, 140
+  orig: 318, 212
+  offset: 19, 30
+  index: -1
+dimian0002
+  rotate: true
+  xy: 635, 31
+  size: 218, 167
+  orig: 318, 212
+  offset: 1, 7
+  index: -1
+dimian0003
+  rotate: false
+  xy: 282, 3
+  size: 235, 175
+  orig: 318, 212
+  offset: 1, 2
+  index: -1
+dimian0005
+  rotate: true
+  xy: 186, 180
+  size: 302, 188
+  orig: 318, 212
+  offset: 5, 0
+  index: -1
+dimian0006
+  rotate: true
+  xy: 2, 484
+  size: 310, 189
+  orig: 318, 212
+  offset: 8, 0
+  index: -1
+dimian0008
+  rotate: false
+  xy: 2, 796
+  size: 317, 193
+  orig: 318, 212
+  offset: 1, 0
+  index: -1
+dimian0010
+  rotate: false
+  xy: 321, 796
+  size: 317, 193
+  orig: 318, 212
+  offset: 1, 0
+  index: -1
+dimian0012
+  rotate: false
+  xy: 640, 796
+  size: 317, 193
+  orig: 318, 212
+  offset: 1, 0
+  index: -1
+shexian0000
+  rotate: false
+  xy: 828, 453
+  size: 148, 82
+  orig: 318, 212
+  offset: 45, 86
+  index: -1
+shexian0001
+  rotate: true
+  xy: 681, 279
+  size: 256, 145
+  orig: 318, 212
+  offset: 48, 36
+  index: -1
+shexian0002
+  rotate: true
+  xy: 828, 196
+  size: 255, 147
+  orig: 318, 212
+  offset: 50, 31
+  index: -1
+shexian0003
+  rotate: true
+  xy: 847, 538
+  size: 256, 129
+  orig: 318, 212
+  offset: 50, 43
+  index: -1
+shexian0005
+  rotate: true
+  xy: 518, 536
+  size: 258, 158
+  orig: 318, 212
+  offset: 47, 24
+  index: -1
+shexian0007
+  rotate: true
+  xy: 507, 251
+  size: 260, 172
+  orig: 318, 212
+  offset: 45, 17
+  index: -1
+shexian0009
+  rotate: false
+  xy: 2, 2
+  size: 278, 175
+  orig: 318, 212
+  offset: 26, 17
+  index: -1
+shexian0011
+  rotate: true
+  xy: 335, 513
+  size: 281, 181
+  orig: 318, 212
+  offset: 22, 14
+  index: -1
+shexian0013
+  rotate: true
+  xy: 2, 179
+  size: 303, 182
+  orig: 318, 212
+  offset: 0, 15
+  index: -1
+shexian0015
+  rotate: true
+  xy: 678, 537
+  size: 257, 167
+  orig: 318, 212
+  offset: 43, 19
+  index: -1
+shexian0017
+  rotate: true
+  xy: 519, 11
+  size: 238, 114
+  orig: 318, 212
+  offset: 51, 41
+  index: -1

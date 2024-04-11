@@ -1,0 +1,83 @@
+
+action.png
+size: 250,542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoji_0000
+  rotate: true
+  xy: 167, 16
+  size: 75, 76
+  orig: 175, 175
+  offset: 50, 48
+  index: -1
+baoji_0001
+  rotate: false
+  xy: 2, 404
+  size: 137, 136
+  orig: 175, 175
+  offset: 19, 17
+  index: -1
+baoji_0002
+  rotate: false
+  xy: 2, 188
+  size: 113, 99
+  orig: 175, 175
+  offset: 25, 36
+  index: -1
+baoji_0003
+  rotate: true
+  xy: 141, 420
+  size: 120, 107
+  orig: 175, 175
+  offset: 21, 32
+  index: -1
+baoji_0004
+  rotate: false
+  xy: 118, 200
+  size: 119, 101
+  orig: 175, 175
+  offset: 21, 30
+  index: -1
+baoji_0005
+  rotate: true
+  xy: 141, 303
+  size: 115, 106
+  orig: 175, 175
+  offset: 29, 27
+  index: -1
+baoji_0006
+  rotate: false
+  xy: 2, 289
+  size: 114, 113
+  orig: 175, 175
+  offset: 34, 22
+  index: -1
+baoji_0008
+  rotate: false
+  xy: 117, 93
+  size: 106, 105
+  orig: 175, 175
+  offset: 36, 28
+  index: -1
+baoji_0010
+  rotate: false
+  xy: 2, 105
+  size: 91, 81
+  orig: 175, 175
+  offset: 43, 27
+  index: -1
+baoji_0012
+  rotate: true
+  xy: 2, 13
+  size: 90, 81
+  orig: 175, 175
+  offset: 43, 27
+  index: -1
+baoji_0014
+  rotate: true
+  xy: 85, 2
+  size: 89, 80
+  orig: 175, 175
+  offset: 43, 28
+  index: -1

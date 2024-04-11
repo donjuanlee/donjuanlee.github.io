@@ -1,0 +1,62 @@
+
+action.png
+size: 450,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingchongji_0000
+  rotate: true
+  xy: 2, 97
+  size: 140, 157
+  orig: 225, 210
+  offset: 52, 38
+  index: -1
+bingchongji_0001
+  rotate: true
+  xy: 161, 127
+  size: 110, 129
+  orig: 225, 210
+  offset: 58, 42
+  index: -1
+bingchongji_0002
+  rotate: true
+  xy: 161, 29
+  size: 96, 129
+  orig: 225, 210
+  offset: 71, 43
+  index: -1
+bingchongji_0003
+  rotate: true
+  xy: 292, 2
+  size: 89, 136
+  orig: 225, 210
+  offset: 82, 43
+  index: -1
+bingchongji_0004
+  rotate: false
+  xy: 292, 93
+  size: 98, 144
+  orig: 225, 210
+  offset: 78, 43
+  index: -1
+bingchongji_0005
+  rotate: true
+  xy: 2, 5
+  size: 90, 150
+  orig: 225, 210
+  offset: 81, 44
+  index: -1
+bingjiana_0000
+  rotate: true
+  xy: 154, 8
+  size: 19, 133
+  orig: 50, 170
+  offset: 15, 23
+  index: -1
+shanguanga_0000
+  rotate: false
+  xy: 392, 111
+  size: 56, 126
+  orig: 100, 200
+  offset: 24, 47
+  index: -1

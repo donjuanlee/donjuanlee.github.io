@@ -1,0 +1,139 @@
+
+action.png
+size: 527,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 453, 116
+  size: 83, 72
+  orig: 120, 100
+  offset: 10, 10
+  index: -1
+1_0000
+  rotate: false
+  xy: 387, 70
+  size: 61, 42
+  orig: 600, 572
+  offset: 266, 266
+  index: -1
+1_0001
+  rotate: true
+  xy: 471, 205
+  size: 81, 54
+  orig: 600, 572
+  offset: 256, 264
+  index: -1
+1_0002
+  rotate: true
+  xy: 171, 86
+  size: 99, 62
+  orig: 600, 572
+  offset: 246, 261
+  index: -1
+1_0003
+  rotate: true
+  xy: 95, 172
+  size: 114, 70
+  orig: 600, 572
+  offset: 237, 256
+  index: -1
+1_0004
+  rotate: true
+  xy: 91, 16
+  size: 126, 78
+  orig: 600, 572
+  offset: 230, 250
+  index: -1
+1_0005
+  rotate: true
+  xy: 2, 5
+  size: 137, 87
+  orig: 600, 572
+  offset: 224, 242
+  index: -1
+1_0006
+  rotate: true
+  xy: 2, 144
+  size: 142, 91
+  orig: 600, 572
+  offset: 223, 237
+  index: -1
+21
+  rotate: true
+  xy: 167, 187
+  size: 99, 84
+  orig: 120, 100
+  offset: 12, 10
+  index: -1
+xg_00000
+  rotate: false
+  xy: 171, 2
+  size: 68, 82
+  orig: 75, 100
+  offset: 7, 4
+  index: -1
+xg_00002
+  rotate: false
+  xy: 453, 30
+  size: 70, 84
+  orig: 75, 100
+  offset: 5, 5
+  index: -1
+xg_00004
+  rotate: false
+  xy: 324, 201
+  size: 72, 85
+  orig: 75, 100
+  offset: 3, 6
+  index: -1
+xg_00006
+  rotate: false
+  xy: 307, 107
+  size: 71, 86
+  orig: 75, 100
+  offset: 3, 6
+  index: -1
+xg_00008
+  rotate: false
+  xy: 235, 93
+  size: 70, 92
+  orig: 75, 100
+  offset: 4, 0
+  index: -1
+xg_00010
+  rotate: false
+  xy: 253, 195
+  size: 69, 91
+  orig: 75, 100
+  offset: 5, 0
+  index: -1
+xg_00012
+  rotate: false
+  xy: 241, 4
+  size: 71, 87
+  orig: 75, 100
+  offset: 4, 1
+  index: -1
+xg_00014
+  rotate: false
+  xy: 314, 20
+  size: 71, 85
+  orig: 75, 100
+  offset: 4, 1
+  index: -1
+xg_00016
+  rotate: false
+  xy: 380, 114
+  size: 71, 85
+  orig: 75, 100
+  offset: 4, 2
+  index: -1
+xg_00018
+  rotate: false
+  xy: 398, 201
+  size: 71, 85
+  orig: 75, 100
+  offset: 4, 2
+  index: -1

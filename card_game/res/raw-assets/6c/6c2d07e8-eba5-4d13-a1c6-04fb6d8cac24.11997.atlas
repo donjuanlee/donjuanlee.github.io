@@ -1,0 +1,13 @@
+
+stand2.png
+size: 129,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 125, 137
+  orig: 468, 468
+  offset: 167, 161
+  index: -1

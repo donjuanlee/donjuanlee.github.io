@@ -1,0 +1,27 @@
+
+action.png
+size: 572,194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguanga_0000
+  rotate: false
+  xy: 217, 41
+  size: 216, 151
+  orig: 468, 468
+  offset: 30, 218
+  index: -1
+daoguanga_0001
+  rotate: false
+  xy: 2, 2
+  size: 213, 190
+  orig: 468, 468
+  offset: 61, 175
+  index: -1
+daoguanga_0002
+  rotate: false
+  xy: 435, 8
+  size: 135, 184
+  orig: 468, 468
+  offset: 138, 176
+  index: -1

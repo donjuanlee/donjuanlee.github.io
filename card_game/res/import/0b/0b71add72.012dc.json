@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"welfare_bar_kuang","texture":"176148590","rect":[499,3,385,16],"offset":[0,0],"originalSize":[385,16],"capInsets":[24,0,23,0]}},{"__type__":"cc.SpriteFrame","content":{"name":"welfare_bar_bg","texture":"176148590","rect":[331,244,46,6],"offset":[0,0],"originalSize":[46,6],"rotated":1,"capInsets":[17,0,16,0]}}]

@@ -1,0 +1,279 @@
+
+action.png
+size: 995,343
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoqi_0012
+  rotate: false
+  xy: 673, 13
+  size: 72, 36
+  orig: 360, 360
+  offset: 169, 182
+  index: -1
+baoqi_0013
+  rotate: false
+  xy: 858, 28
+  size: 73, 38
+  orig: 360, 360
+  offset: 169, 180
+  index: -1
+baoqi_0014
+  rotate: false
+  xy: 687, 93
+  size: 74, 40
+  orig: 360, 360
+  offset: 169, 177
+  index: -1
+baoqi_0015
+  rotate: false
+  xy: 687, 51
+  size: 73, 40
+  orig: 360, 360
+  offset: 169, 176
+  index: -1
+baoqi_0016
+  rotate: false
+  xy: 762, 15
+  size: 72, 38
+  orig: 360, 360
+  offset: 169, 179
+  index: -1
+baoqi_0017
+  rotate: true
+  xy: 537, 3
+  size: 64, 32
+  orig: 360, 360
+  offset: 173, 184
+  index: -1
+bingbao_0009
+  rotate: false
+  xy: 577, 87
+  size: 108, 47
+  orig: 360, 360
+  offset: 136, 138
+  index: -1
+bingbao_0010
+  rotate: true
+  xy: 422, 233
+  size: 108, 113
+  orig: 360, 360
+  offset: 136, 138
+  index: -1
+bingbao_0011
+  rotate: true
+  xy: 537, 233
+  size: 108, 112
+  orig: 360, 360
+  offset: 136, 138
+  index: -1
+bingbao_0012
+  rotate: false
+  xy: 465, 136
+  size: 110, 95
+  orig: 360, 360
+  offset: 134, 138
+  index: -1
+bingbao_0013
+  rotate: false
+  xy: 577, 136
+  size: 109, 95
+  orig: 360, 360
+  offset: 136, 138
+  index: -1
+bingbao_0014
+  rotate: true
+  xy: 133, 107
+  size: 120, 131
+  orig: 360, 360
+  offset: 136, 128
+  index: -1
+bingbao_0015
+  rotate: true
+  xy: 266, 108
+  size: 119, 125
+  orig: 360, 360
+  offset: 135, 128
+  index: -1
+bingbao_0016
+  rotate: false
+  xy: 2, 101
+  size: 129, 126
+  orig: 360, 360
+  offset: 125, 128
+  index: -1
+bingbao_0017
+  rotate: false
+  xy: 289, 229
+  size: 131, 112
+  orig: 360, 360
+  offset: 130, 133
+  index: -1
+bingbao_0018
+  rotate: false
+  xy: 2, 229
+  size: 144, 112
+  orig: 360, 360
+  offset: 125, 134
+  index: -1
+bingbao_0019
+  rotate: false
+  xy: 148, 229
+  size: 139, 112
+  orig: 360, 360
+  offset: 137, 133
+  index: -1
+bingzhen_0000
+  rotate: false
+  xy: 2, 2
+  size: 111, 97
+  orig: 360, 360
+  offset: 138, 128
+  index: -1
+hanqi_0000
+  rotate: false
+  xy: 290, 9
+  size: 92, 34
+  orig: 360, 360
+  offset: 150, 147
+  index: -1
+hanqi_0001
+  rotate: false
+  xy: 858, 68
+  size: 92, 35
+  orig: 360, 360
+  offset: 150, 146
+  index: -1
+hanqi_0002
+  rotate: true
+  xy: 246, 11
+  size: 94, 42
+  orig: 360, 360
+  offset: 148, 144
+  index: -1
+hanqi_0003
+  rotate: false
+  xy: 893, 168
+  size: 95, 47
+  orig: 360, 360
+  offset: 147, 143
+  index: -1
+hanqi_0004
+  rotate: false
+  xy: 577, 33
+  size: 94, 52
+  orig: 360, 360
+  offset: 148, 141
+  index: -1
+hanqi_0005
+  rotate: false
+  xy: 445, 11
+  size: 90, 56
+  orig: 360, 360
+  offset: 150, 140
+  index: -1
+hanqi_0006
+  rotate: true
+  xy: 385, 12
+  size: 92, 58
+  orig: 360, 360
+  offset: 151, 140
+  index: -1
+hanqi_0007
+  rotate: false
+  xy: 887, 105
+  size: 93, 61
+  orig: 360, 360
+  offset: 150, 139
+  index: -1
+hanqi_0008
+  rotate: false
+  xy: 290, 45
+  size: 93, 61
+  orig: 360, 360
+  offset: 150, 139
+  index: -1
+hanqi_0009
+  rotate: false
+  xy: 902, 217
+  size: 91, 60
+  orig: 360, 360
+  offset: 151, 140
+  index: -1
+hanqi_0010
+  rotate: false
+  xy: 902, 279
+  size: 91, 62
+  orig: 360, 360
+  offset: 150, 139
+  index: -1
+hanqi_0011
+  rotate: true
+  xy: 115, 2
+  size: 97, 62
+  orig: 360, 360
+  offset: 148, 139
+  index: -1
+hanqi_0012
+  rotate: true
+  xy: 179, 2
+  size: 103, 65
+  orig: 360, 360
+  offset: 147, 137
+  index: -1
+hanqi_0013
+  rotate: false
+  xy: 465, 69
+  size: 110, 65
+  orig: 360, 360
+  offset: 143, 137
+  index: -1
+hanqi_0014
+  rotate: false
+  xy: 768, 106
+  size: 117, 67
+  orig: 360, 360
+  offset: 138, 136
+  index: -1
+hanqi_0015
+  rotate: true
+  xy: 393, 106
+  size: 121, 70
+  orig: 360, 360
+  offset: 137, 135
+  index: -1
+hanqi_0016
+  rotate: false
+  xy: 768, 175
+  size: 123, 77
+  orig: 360, 360
+  offset: 138, 131
+  index: -1
+hanqi_0017
+  rotate: false
+  xy: 651, 256
+  size: 127, 85
+  orig: 360, 360
+  offset: 137, 125
+  index: -1
+hanqi_0018
+  rotate: false
+  xy: 780, 254
+  size: 120, 87
+  orig: 360, 360
+  offset: 141, 124
+  index: -1
+hanqi_0019
+  rotate: true
+  xy: 688, 135
+  size: 119, 78
+  orig: 360, 360
+  offset: 138, 134
+  index: -1
+hanqi_0020
+  rotate: false
+  xy: 763, 55
+  size: 93, 49
+  orig: 360, 360
+  offset: 150, 156
+  index: -1

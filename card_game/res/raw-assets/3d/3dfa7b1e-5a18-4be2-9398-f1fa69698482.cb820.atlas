@@ -1,0 +1,314 @@
+
+HG31095.png
+size: 3955,3908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 1030, 466
+  size: 1007, 1002
+  orig: 1007, 1002
+  offset: 0, 0
+  index: -1
+Hair_1
+  rotate: true
+  xy: 1939, 1682
+  size: 973, 886
+  orig: 976, 887
+  offset: 2, 0
+  index: -1
+M-body
+  rotate: false
+  xy: 2, 1475
+  size: 1128, 1149
+  orig: 1129, 1152
+  offset: 1, 1
+  index: -1
+M-penis-1
+  rotate: true
+  xy: 1315, 2650
+  size: 189, 156
+  orig: 190, 161
+  offset: 0, 1
+  index: -1
+M-penis-2
+  rotate: true
+  xy: 2475, 46
+  size: 445, 301
+  orig: 446, 304
+  offset: 0, 2
+  index: -1
+Snakehair-3
+  rotate: true
+  xy: 3578, 2141
+  size: 457, 375
+  orig: 459, 378
+  offset: 1, 2
+  index: -1
+Snakehead-1
+  rotate: true
+  xy: 3631, 441
+  size: 222, 309
+  orig: 225, 311
+  offset: 0, 1
+  index: -1
+Snakehead-2
+  rotate: false
+  xy: 3631, 202
+  size: 265, 237
+  orig: 265, 237
+  offset: 0, 0
+  index: -1
+Snakehead-3
+  rotate: false
+  xy: 1929, 2657
+  size: 316, 273
+  orig: 317, 274
+  offset: 0, 1
+  index: -1
+Snakeheadhair-1
+  rotate: true
+  xy: 2509, 502
+  size: 539, 357
+  orig: 541, 360
+  offset: 1, 1
+  index: -1
+Snakeheadhair-2
+  rotate: false
+  xy: 2, 5
+  size: 313, 440
+  orig: 316, 443
+  offset: 1, 1
+  index: -1
+arm-R
+  rotate: true
+  xy: 3252, 890
+  size: 661, 312
+  orig: 661, 317
+  offset: 0, 2
+  index: -1
+black
+  rotate: false
+  xy: 2, 2626
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1132, 1643
+  size: 805, 998
+  orig: 806, 999
+  offset: 0, 1
+  index: -1
+body_1
+  rotate: false
+  xy: 724, 2638
+  size: 349, 201
+  orig: 366, 239
+  offset: 6, 23
+  index: -1
+boob-L
+  rotate: false
+  xy: 2048, 2
+  size: 425, 489
+  orig: 426, 492
+  offset: 0, 1
+  index: -1
+boob-R
+  rotate: false
+  xy: 1496, 6
+  size: 550, 458
+  orig: 554, 459
+  offset: 2, 0
+  index: -1
+brows
+  rotate: true
+  xy: 1559, 2653
+  size: 277, 368
+  orig: 282, 376
+  offset: 3, 4
+  index: -1
+eyes
+  rotate: true
+  xy: 2247, 2663
+  size: 267, 313
+  orig: 272, 321
+  offset: 2, 4
+  index: -1
+eyes-1
+  rotate: true
+  xy: 3568, 1818
+  size: 321, 376
+  orig: 324, 380
+  offset: 1, 1
+  index: -1
+eyes-2
+  rotate: true
+  xy: 3566, 665
+  size: 292, 350
+  orig: 294, 352
+  offset: 1, 1
+  index: -1
+eyes-white
+  rotate: false
+  xy: 2562, 2659
+  size: 321, 370
+  orig: 321, 372
+  offset: 0, 1
+  index: -1
+hair-1
+  rotate: true
+  xy: 3044, 3253
+  size: 653, 847
+  orig: 655, 850
+  offset: 1, 1
+  index: -1
+hair-10
+  rotate: false
+  xy: 2827, 2292
+  size: 749, 306
+  orig: 750, 307
+  offset: 0, 0
+  index: -1
+hair-2
+  rotate: true
+  xy: 2718, 1044
+  size: 507, 532
+  orig: 538, 555
+  offset: 30, 0
+  index: -1
+hair-3
+  rotate: false
+  xy: 2034, 493
+  size: 473, 548
+  orig: 476, 550
+  offset: 1, 2
+  index: -1
+hair-4
+  rotate: false
+  xy: 3044, 2600
+  size: 802, 651
+  orig: 806, 653
+  offset: 3, 1
+  index: -1
+hair-5
+  rotate: true
+  xy: 3233, 482
+  size: 406, 322
+  orig: 409, 324
+  offset: 3, 1
+  index: -1
+hair-6
+  rotate: false
+  xy: 1559, 2932
+  size: 962, 974
+  orig: 1008, 978
+  offset: 3, 2
+  index: -1
+hair-7
+  rotate: false
+  xy: 3568, 1273
+  size: 367, 543
+  orig: 371, 546
+  offset: 2, 1
+  index: -1
+hair-8
+  rotate: true
+  xy: 2827, 1553
+  size: 737, 739
+  orig: 737, 743
+  offset: 0, 3
+  index: -1
+hair-9
+  rotate: true
+  xy: 2868, 533
+  size: 509, 363
+  orig: 511, 366
+  offset: 1, 2
+  index: -1
+hair_2
+  rotate: false
+  xy: 2778, 102
+  size: 437, 398
+  orig: 440, 400
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2048, 1043
+  size: 668, 637
+  orig: 668, 641
+  offset: 0, 1
+  index: -1
+light-eyes
+  rotate: true
+  xy: 1075, 2643
+  size: 196, 238
+  orig: 198, 239
+  offset: 1, 0
+  index: -1
+mouth-1
+  rotate: false
+  xy: 1216, 1536
+  size: 80, 105
+  orig: 82, 111
+  offset: 2, 1
+  index: -1
+mouth-2
+  rotate: false
+  xy: 1132, 1528
+  size: 82, 113
+  orig: 84, 116
+  offset: 1, 1
+  index: -1
+respite1
+  rotate: false
+  xy: 3217, 46
+  size: 412, 434
+  orig: 445, 436
+  offset: 32, 1
+  index: -1
+respite2
+  rotate: false
+  xy: 3566, 959
+  size: 351, 312
+  orig: 380, 314
+  offset: 1, 1
+  index: -1
+semen
+  rotate: true
+  xy: 724, 2841
+  size: 1065, 833
+  orig: 1067, 835
+  offset: 1, 1
+  index: -1
+water
+  rotate: false
+  xy: 2, 447
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+waterwave1
+  rotate: false
+  xy: 950, 6
+  size: 544, 439
+  orig: 545, 440
+  offset: 0, 0
+  index: -1
+waterwave2
+  rotate: false
+  xy: 317, 6
+  size: 631, 439
+  orig: 635, 440
+  offset: 3, 0
+  index: -1
+waterwave3
+  rotate: true
+  xy: 2523, 3031
+  size: 875, 519
+  orig: 880, 520
+  offset: 2, 0
+  index: -1

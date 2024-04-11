@@ -1,0 +1,222 @@
+
+action.png
+size: 1021,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_dimian_0008
+  rotate: false
+  xy: 2, 90
+  size: 528, 211
+  orig: 576, 576
+  offset: 31, 169
+  index: -1
+a_dimian_0012
+  rotate: false
+  xy: 2, 802
+  size: 545, 213
+  orig: 576, 576
+  offset: 17, 167
+  index: -1
+a_dimian_0013
+  rotate: true
+  xy: 355, 305
+  size: 495, 182
+  orig: 576, 576
+  offset: 47, 186
+  index: -1
+a_dimian_0014
+  rotate: true
+  xy: 844, 30
+  size: 495, 170
+  orig: 576, 576
+  offset: 47, 186
+  index: -1
+b_guangzhao_0005
+  rotate: false
+  xy: 420, 24
+  size: 98, 64
+  orig: 576, 576
+  offset: 22, 358
+  index: -1
+b_guangzhao_0006
+  rotate: true
+  xy: 539, 75
+  size: 450, 303
+  orig: 576, 576
+  offset: 43, 199
+  index: -1
+b_guangzhao_0007
+  rotate: true
+  xy: 2, 303
+  size: 497, 351
+  orig: 576, 576
+  offset: 42, 180
+  index: -1
+b_guangzhao_0008
+  rotate: true
+  xy: 549, 527
+  size: 488, 380
+  orig: 576, 576
+  offset: 45, 174
+  index: -1
+b_guangzhao_0010
+  rotate: false
+  xy: 2, 4
+  size: 245, 84
+  orig: 576, 576
+  offset: 155, 247
+  index: -1
+b_guangzhao_0011
+  rotate: true
+  xy: 931, 772
+  size: 243, 88
+  orig: 576, 576
+  offset: 158, 247
+  index: -1
+b_guangzhao_0012
+  rotate: true
+  xy: 931, 649
+  size: 121, 79
+  orig: 576, 576
+  offset: 280, 251
+  index: -1
+d__0008
+  rotate: false
+  xy: 651, 17
+  size: 68, 56
+  orig: 576, 576
+  offset: 204, 346
+  index: -1
+d__0009
+  rotate: true
+  xy: 520, 14
+  size: 59, 65
+  orig: 576, 576
+  offset: 218, 328
+  index: -1
+d__0010
+  rotate: false
+  xy: 931, 555
+  size: 72, 92
+  orig: 576, 576
+  offset: 204, 320
+  index: -1
+d__0011
+  rotate: true
+  xy: 721, 23
+  size: 50, 86
+  orig: 576, 576
+  offset: 220, 301
+  index: -1
+d__0012
+  rotate: true
+  xy: 249, 16
+  size: 72, 75
+  orig: 576, 576
+  offset: 199, 322
+  index: -1
+d__0013
+  rotate: true
+  xy: 326, 18
+  size: 70, 92
+  orig: 576, 576
+  offset: 198, 300
+  index: -1
+d__0014
+  rotate: true
+  xy: 587, 16
+  size: 57, 62
+  orig: 576, 576
+  offset: 203, 301
+  index: -1
+d__0015
+  rotate: true
+  xy: 931, 527
+  size: 26, 54
+  orig: 576, 576
+  offset: 205, 305
+  index: -1
+huanjing_1
+  rotate: false
+  xy: 539, 797
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: true
+  xy: 420, 2
+  size: 20, 54
+  orig: 320, 320
+  offset: 150, 133
+  index: -1
+
+action2.png
+size: 948,887
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_dimian_0006
+  rotate: true
+  xy: 541, 156
+  size: 509, 201
+  orig: 576, 576
+  offset: 39, 178
+  index: -1
+a_dimian_0007
+  rotate: false
+  xy: 2, 18
+  size: 510, 205
+  orig: 576, 576
+  offset: 39, 174
+  index: -1
+a_dimian_0009
+  rotate: false
+  xy: 2, 667
+  size: 542, 218
+  orig: 576, 576
+  offset: 20, 166
+  index: -1
+a_dimian_0010
+  rotate: false
+  xy: 2, 445
+  size: 537, 220
+  orig: 576, 576
+  offset: 25, 164
+  index: -1
+a_dimian_0011
+  rotate: false
+  xy: 2, 225
+  size: 537, 218
+  orig: 576, 576
+  offset: 26, 164
+  index: -1
+a_dimian_0015
+  rotate: true
+  xy: 744, 170
+  size: 495, 170
+  orig: 576, 576
+  offset: 47, 186
+  index: -1
+b_guangzhao_0009
+  rotate: false
+  xy: 514, 2
+  size: 432, 152
+  orig: 576, 576
+  offset: 78, 175
+  index: -1
+b_guangzhao_0013
+  rotate: false
+  xy: 830, 838
+  size: 46, 47
+  orig: 576, 576
+  offset: 280, 284
+  index: -1
+c_glow
+  rotate: false
+  xy: 546, 667
+  size: 282, 218
+  orig: 576, 576
+  offset: 156, 215
+  index: -1

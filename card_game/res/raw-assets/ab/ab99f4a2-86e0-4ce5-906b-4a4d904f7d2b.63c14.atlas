@@ -1,0 +1,160 @@
+
+action.png
+size: 991,946
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_0002
+  rotate: false
+  xy: 273, 745
+  size: 219, 199
+  orig: 480, 432
+  offset: 110, 78
+  index: -1
+1_0003
+  rotate: true
+  xy: 661, 742
+  size: 202, 289
+  orig: 480, 432
+  offset: 140, 80
+  index: -1
+1_0004
+  rotate: false
+  xy: 257, 8
+  size: 135, 275
+  orig: 480, 432
+  offset: 207, 94
+  index: -1
+1_0005
+  rotate: true
+  xy: 681, 614
+  size: 126, 268
+  orig: 480, 432
+  offset: 203, 99
+  index: -1
+1_0006
+  rotate: false
+  xy: 661, 210
+  size: 100, 96
+  orig: 480, 432
+  offset: 218, 270
+  index: -1
+2
+  rotate: false
+  xy: 273, 588
+  size: 67, 152
+  orig: 480, 432
+  offset: 207, 141
+  index: -1
+5_0011
+  rotate: true
+  xy: 2, 587
+  size: 357, 269
+  orig: 432, 432
+  offset: 44, 129
+  index: -1
+5_0012
+  rotate: true
+  xy: 2, 255
+  size: 330, 253
+  orig: 432, 432
+  offset: 86, 132
+  index: -1
+5_0013
+  rotate: true
+  xy: 394, 14
+  size: 269, 265
+  orig: 432, 432
+  offset: 148, 127
+  index: -1
+5_0014
+  rotate: true
+  xy: 2, 2
+  size: 251, 253
+  orig: 432, 432
+  offset: 179, 128
+  index: -1
+5_0015
+  rotate: false
+  xy: 548, 308
+  size: 243, 243
+  orig: 432, 432
+  offset: 184, 136
+  index: -1
+5_0016
+  rotate: true
+  xy: 494, 740
+  size: 204, 158
+  orig: 432, 432
+  offset: 228, 161
+  index: -1
+6_0011
+  rotate: false
+  xy: 835, 175
+  size: 100, 86
+  orig: 432, 432
+  offset: 218, 158
+  index: -1
+6_0012
+  rotate: true
+  xy: 342, 589
+  size: 154, 147
+  orig: 432, 432
+  offset: 200, 146
+  index: -1
+6_0013
+  rotate: true
+  xy: 661, 26
+  size: 182, 172
+  orig: 432, 432
+  offset: 196, 142
+  index: -1
+6_0014
+  rotate: false
+  xy: 793, 263
+  size: 188, 144
+  orig: 432, 432
+  offset: 190, 170
+  index: -1
+6_0015
+  rotate: false
+  xy: 491, 593
+  size: 188, 145
+  orig: 432, 432
+  offset: 194, 173
+  index: -1
+6_0016
+  rotate: false
+  xy: 793, 409
+  size: 196, 142
+  orig: 432, 432
+  offset: 189, 178
+  index: -1
+6_0017
+  rotate: false
+  xy: 681, 553
+  size: 57, 59
+  orig: 432, 432
+  offset: 272, 239
+  index: -1
+7
+  rotate: true
+  xy: 952, 728
+  size: 216, 35
+  orig: 432, 768
+  offset: 199, 330
+  index: -1
+7a
+  rotate: true
+  xy: 951, 553
+  size: 173, 21
+  orig: 432, 768
+  offset: 224, 334
+  index: -1
+8
+  rotate: true
+  xy: 257, 285
+  size: 300, 289
+  orig: 480, 432
+  offset: 149, 110
+  index: -1

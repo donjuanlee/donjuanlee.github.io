@@ -1,0 +1,229 @@
+
+action.png
+size: 1017,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan_0000
+  rotate: false
+  xy: 747, 353
+  size: 261, 104
+  orig: 416, 248
+  offset: 82, 69
+  index: -1
+hit_0001
+  rotate: false
+  xy: 2, 838
+  size: 505, 180
+  orig: 768, 768
+  offset: 38, 286
+  index: -1
+hit_0003
+  rotate: false
+  xy: 509, 712
+  size: 505, 149
+  orig: 768, 768
+  offset: 38, 302
+  index: -1
+hit_0005
+  rotate: false
+  xy: 509, 863
+  size: 505, 155
+  orig: 768, 768
+  offset: 38, 300
+  index: -1
+hit_0007
+  rotate: false
+  xy: 747, 2
+  size: 251, 157
+  orig: 768, 768
+  offset: 200, 299
+  index: -1
+hit_0019
+  rotate: false
+  xy: 964, 625
+  size: 51, 85
+  orig: 768, 768
+  offset: 317, 336
+  index: -1
+mabenpao_0002
+  rotate: true
+  xy: 480, 5
+  size: 452, 265
+  orig: 488, 312
+  offset: 0, 21
+  index: -1
+mabenpao_0005
+  rotate: false
+  xy: 2, 55
+  size: 464, 269
+  orig: 488, 312
+  offset: 3, 22
+  index: -1
+mabenpao_0006
+  rotate: false
+  xy: 2, 326
+  size: 476, 255
+  orig: 488, 312
+  offset: 11, 19
+  index: -1
+mabenpao_0008
+  rotate: false
+  xy: 2, 583
+  size: 479, 253
+  orig: 488, 312
+  offset: 1, 21
+  index: -1
+mabenpao_0009
+  rotate: false
+  xy: 483, 459
+  size: 479, 251
+  orig: 488, 312
+  offset: 2, 23
+  index: -1
+smoke_0059
+  rotate: false
+  xy: 747, 161
+  size: 260, 190
+  orig: 297, 235
+  offset: 16, 25
+  index: -1
+
+action2.png
+size: 1007,787
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilie_0001
+  rotate: true
+  xy: 338, 315
+  size: 216, 94
+  orig: 416, 248
+  offset: 98, 72
+  index: -1
+golw_0000
+  rotate: false
+  xy: 614, 39
+  size: 249, 99
+  orig: 416, 248
+  offset: 87, 71
+  index: -1
+hit_0000
+  rotate: true
+  xy: 2, 198
+  size: 333, 146
+  orig: 768, 768
+  offset: 124, 306
+  index: -1
+hit_0009
+  rotate: true
+  xy: 690, 140
+  size: 251, 147
+  orig: 768, 768
+  offset: 207, 301
+  index: -1
+hit_0011
+  rotate: false
+  xy: 408, 28
+  size: 204, 127
+  orig: 768, 768
+  offset: 225, 317
+  index: -1
+hit_0013
+  rotate: true
+  xy: 865, 53
+  size: 164, 114
+  orig: 768, 768
+  offset: 230, 322
+  index: -1
+hit_0015
+  rotate: true
+  xy: 895, 417
+  size: 154, 110
+  orig: 768, 768
+  offset: 240, 328
+  index: -1
+hit_0017
+  rotate: false
+  xy: 324, 74
+  size: 82, 105
+  orig: 768, 768
+  offset: 307, 339
+  index: -1
+mabenpao_0000
+  rotate: false
+  xy: 2, 533
+  size: 430, 252
+  orig: 488, 312
+  offset: 0, 24
+  index: -1
+mabenpao_0003
+  rotate: true
+  xy: 434, 341
+  size: 444, 234
+  orig: 488, 312
+  offset: 0, 41
+  index: -1
+smoke_0032
+  rotate: true
+  xy: 338, 181
+  size: 132, 88
+  orig: 297, 235
+  offset: 65, 91
+  index: -1
+smoke_0035
+  rotate: true
+  xy: 839, 219
+  size: 172, 117
+  orig: 297, 235
+  offset: 46, 71
+  index: -1
+smoke_0038
+  rotate: true
+  xy: 2, 2
+  size: 194, 131
+  orig: 297, 235
+  offset: 37, 62
+  index: -1
+smoke_0041
+  rotate: true
+  xy: 834, 573
+  size: 212, 146
+  orig: 297, 235
+  offset: 28, 53
+  index: -1
+smoke_0044
+  rotate: false
+  xy: 670, 393
+  size: 223, 156
+  orig: 297, 235
+  offset: 22, 46
+  index: -1
+smoke_0047
+  rotate: true
+  xy: 670, 551
+  size: 234, 162
+  orig: 297, 235
+  offset: 20, 44
+  index: -1
+smoke_0050
+  rotate: true
+  xy: 150, 25
+  size: 246, 172
+  orig: 297, 235
+  offset: 18, 37
+  index: -1
+smoke_0053
+  rotate: false
+  xy: 434, 157
+  size: 254, 182
+  orig: 297, 235
+  offset: 17, 29
+  index: -1
+smoke_0056
+  rotate: true
+  xy: 150, 273
+  size: 258, 186
+  orig: 297, 235
+  offset: 18, 27
+  index: -1

@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"item_product_data","json":{"data_product_const_length":0,"data_product_const":{},"data_product_data_length":2,"data_product_data":{"10421":{"bid":10421,"name":"符文·神之耀","lev":0,"need_items":[[10428,50]],"loss":[],"order":1},"10441":{"bid":10441,"name":"符文·神之辉","lev":0,"need_items":[[10429,30]],"loss":[],"order":1}}}}

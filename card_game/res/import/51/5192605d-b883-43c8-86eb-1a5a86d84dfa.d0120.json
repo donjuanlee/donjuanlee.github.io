@@ -1,0 +1,1 @@
+{"__type__":"sp.SkeletonData","_name":"action","_native":".bin","_atlasText":"\naction.png\nsize: 1446,94\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nblueb\n  rotate: false\n  xy: 2, 2\n  size: 1442, 90\n  orig: 1442, 90\n  offset: 0, 0\n  index: -1\n","textures":[{"__uuid__":"81ezJbWPZDS7rkxpqC34wx"}],"textureNames":["action.png"]}
